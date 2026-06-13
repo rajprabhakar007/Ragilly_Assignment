@@ -134,10 +134,13 @@ Benefits:
 
 Images:
 
+# Redis Terminal Working
 ![Redis Working](README-assets/redis.png)
 
+# Before Caching
 ![Before Cache](README-assets/before_cache.png)
 
+# After Caching
 ![After Cache](README-assets/after_cache.png)
 
 ---
